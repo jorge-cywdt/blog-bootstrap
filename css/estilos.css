@@ -38,6 +38,18 @@ body {
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
 
+body {    
+  /* KKK */
+  background: url('../img/El Nacimiento de Venus (Botticelli, 1484).jpg') #000;
+  background-size: cover; /* Cubierta */
+  height: 100vh; /* 100% viewport-height */
+  background-position: center; /* top center */
+  /* Es mejor background que background-image ó background-color,
+  background respalda fondo (imagen) con un color */
+  /* 100% del ancho de la pantalla */
+  /* 100% del alto de la pantalla */
+}
+
 .cover-container {
   max-width: 42em;
 }
