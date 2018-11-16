@@ -26,14 +26,14 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Cover<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="contact.php">Cover<span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
-                    <a class="btn btn-outline-dark my-2 my-sm-0 text-white border border-white" href="contact.html">Contacto</a>
+                    <a class="btn btn-outline-dark my-2 my-sm-0 text-white border border-white" href="contact.php">Contacto</a>
                 </form>
             </div>
         </nav>
@@ -54,7 +54,7 @@
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>
                         <p class="card-text lead">Software Engineer Student Javascript, Php, Java Heavy Metal music lover Classical music lover Cars lover. jorge.cywdt@gmail.com</p>
-                        <a href="contact.html" class="btn btn-primary">Go cover</a>
+                        <a href="contact.php" class="btn btn-primary">Go cover</a>
                     </div>
                 </div><!-- Información personal -->
                 <!-- Comentarios -->
@@ -96,7 +96,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300587388"></iframe>
                                     </div>
-                                    <a href="contact.html" class="btn btn-outline-primary">Más información</a>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -115,7 +115,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/301129703"></iframe>
                                     </div>
-                                    <a href="contact.html" class="btn btn-outline-primary">Más información</a>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -134,7 +134,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
                                     </div>
-                                    <a href="contact.html" class="btn btn-outline-primary">Más información</a>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -153,7 +153,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300809770"></iframe>
                                     </div>
-                                    <a href="contact.html" class="btn btn-outline-primary">Más información</a>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -172,7 +172,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300810369"></iframe>
                                     </div>
-                                    <a href="contact.html" class="btn btn-outline-primary">Más información</a>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->

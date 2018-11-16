@@ -16,8 +16,8 @@
             <div class="inner">
                 <h3 class="masthead-brand">Cover</h3>
                 <nav class="nav nav-masthead justify-content-center">
-                    <a class="nav-link active" href="cover.html">Home</a>                    
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link active" href="cover.php">Home</a>                    
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </nav>
             </div>
         </header>
@@ -26,7 +26,7 @@
             <h1 class="cover-heading">Jorge Ernesto</h1>
             <p class="lead">Software Engineer Student Javascript, Php, Java Heavy Metal music lover Classical music lover Cars lover.</p>
             <p class="lead">
-                <a href="index.html" class="btn btn-lg btn-secondary">Ver proyectos</a>
+                <a href="/" class="btn btn-lg btn-secondary">Ver proyectos</a>
             </p>
         </main>
 
