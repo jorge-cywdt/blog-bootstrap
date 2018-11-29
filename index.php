@@ -53,7 +53,7 @@
                     </div>
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>
-                        <p class="card-text lead">Software Engineer Student <b>Javascript</b>, <b>Php</b>, <b>Java</b> Heavy Metal music lover Classical music lover Cars lover. jorge.cywdt@gmail.com</p>
+                        <p class="card-text lead">Software Engineer Student <b>Javascript</b>, <b>Php</b>, <b>Java</b> Heavy Metal music lover Classical music lover Cars lover. <b>jorge.cywdt@gmail.com</b></p>
                         <a href="contact.php" class="btn btn-primary">Go cover</a>
                     </div>
                 </div><!-- Información personal -->
@@ -91,7 +91,7 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
-                                    <h6 class="font-weight-bold">capriccio</h6>
+                                    <h6 class="font-weight-bold">caprice</h6>
                                     <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: Thymeleaf, JPA, Security, REST y Angular, usando la plantilla de administración CoreUI, plantilla basada en Bootstrap 4.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300587388"></iframe>
