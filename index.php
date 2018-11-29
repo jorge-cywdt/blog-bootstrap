@@ -53,7 +53,7 @@
                     </div>
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>
-                        <p class="card-text lead">Software Engineer Student Javascript, Php, Java Heavy Metal music lover Classical music lover Cars lover. jorge.cywdt@gmail.com</p>
+                        <p class="card-text lead">Software Engineer Student <b>Javascript</b>, <b>Php</b>, <b>Java</b> Heavy Metal music lover Classical music lover Cars lover. jorge.cywdt@gmail.com</p>
                         <a href="contact.php" class="btn btn-primary">Go cover</a>
                     </div>
                 </div><!-- Información personal -->
