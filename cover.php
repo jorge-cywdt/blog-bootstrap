@@ -8,7 +8,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous"> <!-- CDN de Bootstrap -->
     <link rel="icon" href="img/favicon.ico">
-    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/estilos.css">    
 </head>
 <body class="text-center">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
@@ -36,7 +36,7 @@
                 <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
             </div>
         </footer>
-    </div>
+    </div>    
 
     <!-- Jquery, Popper, Bootstrap -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <!-- Cargamos Jquery desde la CDN de Google, una CDN permite acelerar la carga de las páginas -->    
@@ -44,5 +44,17 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script> <!-- CDN de Bootstrap -->
 
     <script src="js/scripts.js"></script>
+
+    <?php    
+    // $action = isset($_GET['action']) ? $_GET['action'] : '';
+    // if ($action == 'contactame') {
+    if (isset($_GET['action'])) { // Si la variable no es null
+    ?>
+    <script>
+        contactame();
+    </script>
+    <?php 
+    }
+    ?>
 </body>
 </html>

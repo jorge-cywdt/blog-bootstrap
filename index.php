@@ -33,7 +33,7 @@
                     </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
-                    <a class="btn btn-outline-dark my-2 my-sm-0 text-white border border-white" href="contact.php">Contacto</a>
+                    <a class="btn btn-outline-dark my-2 my-sm-0 text-white border border-white" href="javascript:contacto()">Contacto</a>
                 </form>
             </div>
         </nav>
@@ -54,7 +54,7 @@
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>
                         <p class="card-text lead">Software Engineer Student <b>Javascript</b>, <b>Php</b>, <b>Java</b> Heavy Metal music lover Classical music lover Cars lover. <b>jorge.cywdt@gmail.com</b></p>
-                        <a href="contact.php" class="btn btn-primary">Go cover</a>
+                        <a href="cover.php" class="btn btn-primary">Go cover</a>
                     </div>
                 </div><!-- Información personal -->
                 <!-- Comentarios -->
@@ -194,5 +194,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <!-- Cargamos Jquery desde la CDN de Google, una CDN permite acelerar la carga de las páginas -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> <!-- CDN de Popper -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script> <!-- CDN de Bootstrap -->
+
+    <script src="js/scripts.js"></script>
 </body>
 </html>
