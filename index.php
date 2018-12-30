@@ -42,7 +42,6 @@
     <!-- Sistema de columnas -->
     <div class="container-fluid mt-5 pt-5">
         <div class="row">
-
             <!-- Columna Izquierda -->
             <div class="col-sm-4 col-lg-3">
                 <!-- Información personal -->
@@ -73,33 +72,9 @@
             </div><!-- Columna Izquierda -->
 
             <!-- Columna derecha -->
-            <div class="col-sm-8 col-lg-9 mt-3 mt-sm-0">
-                <!--
-                <div>
-                    <h1 class="display-4">Proyectos</h1>
-                </div>
-                -->
+            <div class="col-sm-8 col-lg-9 mt-3 mt-sm-0">                
                 <div class="card mr-sm-3">
-                    <ul class="list-group list-group-flush">                        
-                        <!-- Artículo -->
-                        <li class="list-group-item">
-                            <div class="row my-3">
-                                <!-- Avatar -->
-                                <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
-                                </div><!-- Avatar -->
-                                <!-- Contenido -->
-                                <div class="col-10 col-sm-9 col-lg-11">
-                                    <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
-                                    <h6 class="font-weight-bold">capriccio</h6>
-                                    <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: Thymeleaf, JPA, Security, REST y Angular, usando la plantilla de administración CoreUI, plantilla basada en Bootstrap 4.</p>
-                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300587388"></iframe>
-                                    </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
-                                </div><!-- Contenido -->
-                            </div>
-                        </li><!-- Artículo -->
+                    <ul class="list-group list-group-flush">
                         <!-- Artículo -->
                         <li class="list-group-item">
                             <div class="row my-3">
@@ -119,25 +94,7 @@
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
-                        <!-- Artículo -->
-                        <li class="list-group-item">
-                            <div class="row my-3">
-                                <!-- Avatar -->
-                                <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
-                                </div><!-- Avatar -->
-                                <!-- Contenido -->
-                                <div class="col-10 col-sm-9 col-lg-11">
-                                    <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
-                                    <h6 class="font-weight-bold">target</h6>
-                                    <p>Desarrollo de un sistema de compras y ventas en <b>Java</b>, <b>MySQL</b> (Código de Barras, Reportes, POO).</p>
-                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
-                                    </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
-                                </div><!-- Contenido -->
-                            </div>
-                        </li><!-- Artículo -->
+                        
                         <!-- Artículo -->
                         <li class="list-group-item">
                             <div class="row my-3">
@@ -157,6 +114,47 @@
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
+
+                        <!-- Artículo -->
+                        <li class="list-group-item">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
+                                    <h6 class="font-weight-bold">liliana</h6>
+                                    <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: Thymeleaf, JPA, Security, REST y Angular, usando la plantilla de administración CoreUI, plantilla basada en Bootstrap 4.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308780447"></iframe>
+                                    </div>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->
+                        
+                        <!-- Artículo -->
+                        <li class="list-group-item">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
+                                    <h6 class="font-weight-bold">target</h6>
+                                    <p>Desarrollo de un sistema de compras y ventas en <b>Java</b>, <b>MySQL</b> (Código de Barras, Reportes, POO).</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
+                                    </div>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->                        
+
                         <!-- Artículo -->
                         <li class="list-group-item">
                             <div class="row my-3">
