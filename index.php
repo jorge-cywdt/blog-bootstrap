@@ -33,7 +33,7 @@
                     </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
-                    <a class="btn btn-outline-dark my-2 my-sm-0 text-white border border-white" href="javascript:contacto()">Contacto</a>
+                    <a class="btn btn-outline-dark my-2 my-sm-0 text-white border border-white" href="cover.php?action=contactame">Contacto</a> <!--  href="javascript:contacto()", es mejor pasar directamente la variable por href ya que es una y es estática, si se trata de muchas variables se realiza con una funcion javascript -->
                 </form>
             </div>
         </nav>
@@ -85,6 +85,26 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
+                                    <h6 class="font-weight-bold">cardinal</h6>                                                                        
+                                    <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, incluye reportes y gráficos estadísticos.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308788374"></iframe>                                            
+                                    </div>
+                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->
+
+                        <!-- Artículo -->
+                        <li class="list-group-item">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
                                     <h6 class="font-weight-bold">crudmvc</h6>
                                     <p>Crud MVC en <b>Java</b>, <b>MySQL</b>, <b>Jquery</b> y <b>Ajax</b>.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
@@ -126,7 +146,7 @@
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
                                     <h6 class="font-weight-bold">liliana</h6>
-                                    <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: Thymeleaf, JPA, Security, REST y Angular, usando la plantilla de administración CoreUI, plantilla basada en Bootstrap 4.</p>
+                                    <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: Thymeleaf, JPA, Spring Security, usando la plantilla de administración CoreUI, plantilla basada en Bootstrap 4.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308780447"></iframe>
                                     </div>

@@ -12,6 +12,6 @@ function contactame() {
 	$('#wea').html('Me da pereza crear un correo institucional, así que pueden envíar lo que quieran decirme a: </br>Email: <b>jorge.cywdt@gmail.com</b> </br>Teléfono: <b>+51 956122169</b>');
 }
 
-function contacto() {			
-    $(location).attr('href', 'cover.php?action=contactame');    
-}
+// function contacto() {
+//     $(location).attr('href', 'cover.php?action=contactame');    
+// }
