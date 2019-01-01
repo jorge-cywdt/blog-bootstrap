@@ -17,14 +17,14 @@
                 <h3 class="masthead-brand">Cover</h3>
                 <nav class="nav nav-masthead justify-content-center">
                     <a class="nav-link" href="cover.php">Home</a>                    
-                    <a class="nav-link active" href="contact.php">Contact</a>
+                    <a class="nav-link active" href="contactame.php">Contactame</a>
                 </nav>
             </div>
         </header>
 
         <main role="main" class="inner cover">
-            <h1 class="cover-heading">Jorge Ernesto</h1>
-            <p class="lead">jorge.cywdt@gmail.com, +51 956122169</p>
+            <h1 class="cover-heading">Hola, soy Jorge Ernesto</h1>
+            <p class="lead">Me da pereza crear un correo institucional, así que pueden envíar lo que quieran decirme a: <br>Email: <b>jorge.cywdt@gmail.com</b> <br>Teléfono: <b>+51 956122169</b></p>
             <p class="lead">
                 <a href="/" class="btn btn-lg btn-secondary">Ver proyectos</a>
             </p>
