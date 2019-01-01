@@ -106,7 +106,7 @@
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
                                     <h6 class="font-weight-bold">agape-app</h6>                                    
-                                    <p>Desarrollo <b>frontend con Angular</b> 7 y <b>backend con Spring</b> 5, <b>API REST</b>, JPA, Spring Security.</p>
+                                    <p>Desarrollo <b>frontend con Angular</b> 7 y <b>backend con Spring</b> 5, <b>API REST</b>, <b>JPA</b>, <b>Spring Security</b>.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308974322"></iframe>
                                     </div>
@@ -165,16 +165,16 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
-                                    <h6 class="font-weight-bold">liliana</h6>
-                                    <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: Thymeleaf, JPA, Spring Security, usando la plantilla de administración CoreUI, plantilla basada en Bootstrap 4.</p>
+                                    <h6 class="font-weight-bold">target</h6>
+                                    <p>Desarrollo de un sistema de compras y ventas en <b>Java</b>, <b>MySQL</b> (Código de Barras, Reportes, POO).</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308780447"></iframe>
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
                                     </div>
                                     <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
-                        
+
                         <!-- Artículo -->
                         <li class="list-group-item">
                             <div class="row my-3">
@@ -185,15 +185,15 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
-                                    <h6 class="font-weight-bold">target</h6>
-                                    <p>Desarrollo de un sistema de compras y ventas en <b>Java</b>, <b>MySQL</b> (Código de Barras, Reportes, POO).</p>
+                                    <h6 class="font-weight-bold">liliana</h6>
+                                    <p>Desarrollo de un sistema web de gestión de compras y ventas con <b>Spring Framework 5</b> y <b>Spring Boot</b>: <b>Thymeleaf</b>, <b>JPA</b>, <b>Spring Security</b>, usando la plantilla de administración <b>CoreUI</b>, plantilla basada en Bootstrap 4.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308780447"></iframe>
                                     </div>
                                     <a href="contact.php" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
-                        </li><!-- Artículo -->                        
+                        </li><!-- Artículo -->                                                
 
                         <!-- Artículo -->
                         <li class="list-group-item">

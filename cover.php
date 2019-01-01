@@ -24,8 +24,7 @@
 
         <main role="main" class="inner cover">
             <h1 class="cover-heading">Hola, soy Jorge Ernesto</h1>
-            <p id="wea" class="lead">Software Engineer Student <b>Javascript</b>, <b>Php</b>, <b>Java</b> Heavy Metal music lover Classical music lover Cars lover. </br>Un placer que veas esta página, <b>podrás ver mis proyectos</b>.</p>
-            <!-- <p id="wea" class="lead">Software Engineer Student Javascript, Php, Java Heavy Metal music lover Classical music lover Cars lover.</p> -->
+            <p id="wea" class="lead">Software Engineer Student <b>Javascript</b>, <b>Php</b>, <b>Java</b> Heavy Metal music lover Classical music lover Cars lover. <br>Un placer que veas esta página, <b>podrás ver mis proyectos</b>.</p>
             <p class="lead">
                 <a href="/" class="btn btn-lg btn-secondary">Ver proyectos</a>
             </p>
