@@ -9,7 +9,7 @@ function contactame() {
 	$('#home').removeClass('active');
 	$('#contactame').addClass('active');
 	$('#contactame').blur();
-	$('#wea').html('Me da pereza crear un correo institucional, así que pueden envíar lo que quieran decirme a: <br>Email: <b>jorge.cywdt@gmail.com</b> <br>Teléfono: <b>+51 956122169</b>');
+	$('#wea').html('Me da pereza crear un correo institucional, así que pueden envíar lo que quieran decirme a: <br>Email: <b>jorge.cywdt@gmail.com</b> <br>Teléfono: <b>+51 910804220</b>');
 }
 
 // function contacto() {

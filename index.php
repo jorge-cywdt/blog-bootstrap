@@ -64,7 +64,7 @@
                     <div class="card-body">
                         <blockquote class="blockquote mb-0">
                             <p>Esto era lo único que podía pensar para sorprenderte más de lo que me has sorprendido.</p>
-                            <footer class="blockquote-footer"> <cite title="Source Title">Liliana Sturman</cite></footer>
+                            <footer class="blockquote-footer"> <cite title="Source Title">Lilia Sturman</cite></footer>
                             <!-- <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer> -->
                         </blockquote>
                     </div>
@@ -90,7 +90,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308788374"></iframe>                                            
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/308788374" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -110,7 +110,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308974322"></iframe>
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/308974322" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -130,7 +130,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/301129703"></iframe>
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/301129703" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -150,7 +150,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300809770"></iframe>
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/300809770" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -170,7 +170,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/300452044" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -190,7 +190,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308780447"></iframe>
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/308780447" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->                                                
@@ -210,7 +210,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300810369"></iframe>
                                     </div>
-                                    <a href="contact.php" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/300810369" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
