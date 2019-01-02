@@ -46,9 +46,9 @@
             <div class="col-sm-4 col-lg-3">
                 <!-- Información personal -->
                 <div class="card">
-                    <img class="card-img-top" src="img/iceland.jpg" alt="Card image cap">
+                    <img class="card-img-top" src="img/UN-Mural-e1269356026757.jpg" alt="Card image cap">
                     <div class="text-center subir">
-                        <img src="img/5.jpg" alt="" class="rounded-circle border" width="100px">
+                        <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="100px">
                     </div>
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>
@@ -80,7 +80,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
@@ -88,9 +88,9 @@
                                     <h6 class="font-weight-bold">cardinal</h6>                                                                        
                                     <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, incluye reportes y gráficos estadísticos.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308788374"></iframe>                                            
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/308788374" class="btn btn-outline-primary">Más información</a>
+                                    <a target="_blank" href="https://player.vimeo.com/video/309051798" class="btn btn-outline-primary">Más información</a>
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -100,7 +100,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
@@ -120,7 +120,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
@@ -140,7 +140,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
@@ -160,7 +160,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
@@ -180,7 +180,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
@@ -200,7 +200,7 @@
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
-                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
                                 </div><!-- Avatar -->
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
