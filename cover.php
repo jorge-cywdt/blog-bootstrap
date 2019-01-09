@@ -47,7 +47,7 @@
     <?php    
     // $action = isset($_GET['action']) ? $_GET['action'] : '';
     // if ($action == 'contactame') {
-    if (isset($_GET['action'])) { // Si la variable no es null
+    if (isset($_GET['action'])) { // Determina si una variable está definida y no es null
     ?>
     <script>
         contactame();
