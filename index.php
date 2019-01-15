@@ -106,6 +106,26 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
+                                    <h6 class="font-weight-bold">frzmliliana</h6>                                                                        
+                                    <p>Desarrollo de una ecommerce, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, autenticación con Facebook, Gmail, carrito de compras, pagos en PayPal y PayU.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/311560384"></iframe>
+                                    </div>
+                                    <a target="_blank" href="https://player.vimeo.com/video/311560384" class="btn btn-sm btn-outline-dark">Detalle</a> <!-- btn btn-outline-primary -->
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->
+
+                        <!-- Artículo -->
+                        <li class="list-group-item">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/49899207_807567482915042_209221257286123520_n.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p>
                                     <h6 class="font-weight-bold">agape-app</h6>                                    
                                     <p>Desarrollo <b>frontend con Angular</b> 7 y <b>backend con Spring</b> 5, <b>API REST</b>, <b>JPA</b>, <b>Spring Security</b>.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
