@@ -94,9 +94,9 @@
                         <img src="img/Medallas/node-cero-experto.png" width="60" alt="angular">
                         <img src="img/Medallas/progra-101.png" width="60" alt="angular">                                                
                     </div>
-                </div><!-- Comentarios -->
+                </div><!-- Medallas -->
                 <!-- Comentarios -->
-                <div class="card mt-3 border-primary">
+                <div class="card mt-3 border-primary d-none">
                     <div class="card-header">
                         Quote
                     </div>
