@@ -7,7 +7,7 @@
     <title>Jorge Ernesto</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous"> <!-- CDN de Bootstrap -->    
-    <link rel="icon" href="img/favicon.ico">    
+    <link rel="icon" href="img/favicon2.ico">    
     <style>
         .subir{
             margin-top : -50px;
