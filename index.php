@@ -96,14 +96,14 @@
                     </div>
                 </div><!-- Medallas -->
                 <!-- Comentarios -->
-                <div class="card mt-3 border-primary d-none">
+                <div class="card mt-3 border-primary">
                     <div class="card-header">
                         Quote
                     </div>
                     <div class="card-body">                                                                        
                         <blockquote class="blockquote mb-0">
                             <p>Esto era lo único que podía pensar para sorprenderte más de lo que me has sorprendido.</p>
-                            <footer class="blockquote-footer"> <cite title="Source Title">Lilia Sturman</cite></footer>
+                            <footer class="blockquote-footer"> <cite title="Source Title">Liliana Sturman</cite></footer>
                             <!-- <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer> -->
                         </blockquote>
                     </div>
