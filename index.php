@@ -7,6 +7,7 @@
     <title>Jorge Ernesto</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous"> <!-- CDN de Bootstrap -->    
+    <link rel="stylesheet" href="css/animate.css">
     <link rel="icon" href="img/favicon2.ico">    
     <style>
         .subir{
@@ -28,13 +29,12 @@
                     <li class="nav-item active">
                         <a class="nav-link" href="/">Home</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="cover.php">Cover</a>
-                    </li>            
+                    </li> -->
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
-                    <a class="btn btn-outline-primary my-2 my-sm-0" href="cover.php?action=contactame">Contacto</a> <!-- btn btn-outline-dark my-2 my-sm-0 text-white border border-white -->
-                    <!--  href="javascript:contacto()", es mejor pasar directamente la variable por href ya que es una y es estática, si se trata de muchas variables se realiza con una funcion javascript -->
+                    <a class="btn btn-outline-primary my-2 my-sm-0" href="http://jorge-ernesto.herokuapp.com/#contact">Contacto</a> <!-- btn btn-outline-dark my-2 my-sm-0 text-white border border-white --> <!--  href="javascript:contacto()", es mejor pasar directamente la variable por href ya que es una y es estática, si se trata de muchas variables se realiza con una funcion javascript --> <!-- cover.php?action=contactame -->
                 </form>
             </div>
         </nav>
@@ -54,7 +54,7 @@
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>                                                
                         <p class="card-text lead">Intenta hacer pequeños logros todos los días. Si lo haces así, imagínate lo que lograrás en un mes... Un año... Una vida... <b>Javascript</b>, <b>Php</b>, <b>Java</b>. <b>jorge.cywdt@gmail.com</b></p>
-                        <a href="cover.php?action=contactame" class="btn btn-outline-primary btn-block">Contáctame</a> <!-- btn btn-primary -->
+                        <a href="http://jorge-ernesto.herokuapp.com/#contact" class="btn btn-outline-primary btn-block">Contáctame</a> <!-- btn btn-primary --> <!-- cover.php?action=contactame -->
                     </div>
                 </div><!-- Información personal -->
                 <!-- Medallas -->
@@ -93,7 +93,7 @@
                 <div class="card mr-sm-3">
                     <ul class="list-group list-group-flush">
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="cardinal" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -113,7 +113,7 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="frzmliliana" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -133,7 +133,7 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="agape-app" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -153,7 +153,7 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="crudmvc" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -173,7 +173,7 @@
                         </li><!-- Artículo -->
                         
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="ventas" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -193,7 +193,7 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="target" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -213,7 +213,7 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="liliana" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -233,7 +233,7 @@
                         </li><!-- Artículo -->                                                
 
                         <!-- Artículo -->
-                        <li class="list-group-item">
+                        <li id="tienda" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -275,10 +275,13 @@
     </footer>
 
     <!-- Jquery, Popper, Bootstrap -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <!-- Cargamos Jquery desde la CDN de Google, una CDN permite acelerar la carga de las páginas -->
+    <script type="text/javascript" src="js/jquery.min.js"></script> <!-- Cargamos Jquery desde la CDN de Google, una CDN permite acelerar la carga de las páginas --> <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> <!-- CDN de Popper -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script> <!-- CDN de Bootstrap -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script> <!-- CDN de Bootstrap -->    
 
     <script src="js/scripts.js"></script>
+
+    <script type="text/javascript" src="js/skrollr.min.js"></script>
+    <script src="js/main.js" type="text/javascript"></script>
 </body>
 </html>
