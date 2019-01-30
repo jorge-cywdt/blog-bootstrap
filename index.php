@@ -125,9 +125,9 @@
                                     <h6 class="font-weight-bold">frzmliliana</h6>                                                                        
                                     <p>Desarrollo de una ecommerce, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, autenticación con Facebook, Gmail, carrito de compras, pagos en PayPal y PayU.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/311560384"></iframe>
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/314166073"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/311560384" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" href="https://player.vimeo.com/video/314166073" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
