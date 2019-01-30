@@ -34,7 +34,7 @@
                     </li> -->
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
-                    <a class="btn btn-outline-primary my-2 my-sm-0" href="https://jorge-ernesto.herokuapp.com/#contact">Contacto</a> <!-- btn btn-outline-dark my-2 my-sm-0 text-white border border-white --> <!--  href="javascript:contacto()", es mejor pasar directamente la variable por href ya que es una y es estática, si se trata de muchas variables se realiza con una funcion javascript --> <!-- cover.php?action=contactame -->
+                    <a target="_blank" class="btn btn-outline-primary my-2 my-sm-0" href="https://jorge-ernesto.herokuapp.com/#contact">Contacto</a> <!-- btn btn-outline-dark my-2 my-sm-0 text-white border border-white --> <!--  href="javascript:contacto()", es mejor pasar directamente la variable por href ya que es una y es estática, si se trata de muchas variables se realiza con una funcion javascript --> <!-- cover.php?action=contactame -->
                 </form>
             </div>
         </nav>
@@ -54,7 +54,7 @@
                     <div class="card-body text-center">
                         <h6 class="card-title font-weight-bold">Jorge Ernesto</h6>                                                
                         <p class="card-text lead">Intenta hacer pequeños logros todos los días. Si lo haces así, imagínate lo que lograrás en un mes... Un año... Una vida... <b>Javascript</b>, <b>Php</b>, <b>Java</b>. <b>jorge.cywdt@gmail.com</b></p>
-                        <a href="https://jorge-ernesto.herokuapp.com/#contact" class="btn btn-outline-primary btn-block">Contáctame</a> <!-- btn btn-primary --> <!-- cover.php?action=contactame -->
+                        <a target="_blank" class="btn btn-outline-primary btn-block" href="https://jorge-ernesto.herokuapp.com/#contact">Contáctame</a> <!-- btn btn-primary --> <!-- cover.php?action=contactame -->
                     </div>
                 </div><!-- Información personal -->
                 <!-- Medallas -->
