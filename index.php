@@ -57,6 +57,56 @@
                         <a target="_blank" class="btn btn-outline-primary btn-block" href="https://jorge-ernesto.herokuapp.com/#contact">Contáctame</a> <!-- btn btn-primary --> <!-- cover.php?action=contactame -->
                     </div>
                 </div><!-- Información personal -->
+                <!-- Habilidades -->
+                <div class="card mt-3 border-primary">
+                    <div class="card-header">
+                        Habilidades
+                    </div>
+                    <div class="card-body">                        
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">Nivel de estudios</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
+                            </div>  
+                        </blockquote>
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">HTML / CSS</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+                            </div>  
+                        </blockquote>
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">JavaScript</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 95%"></div>
+                            </div>  
+                        </blockquote>
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">Programación</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div>
+                            </div>  
+                        </blockquote>
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">Responsabilidad</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%"></div>
+                            </div>  
+                        </blockquote>
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">Creatividad</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                            </div>  
+                        </blockquote>
+                        <blockquote class="blockquote mb-0">
+                            <p class="mb-0">Multitarea</p>                                                        
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+                            </div>  
+                        </blockquote>
+                    </div>
+                </div><!-- Habilidades -->
                 <!-- Medallas -->
                 <div class="card mt-3 border-primary">
                     <div class="card-header">
@@ -72,7 +122,7 @@
                         <img src="img/Medallas/node-cero-experto.png" width="60" alt="angular">
                         <img src="img/Medallas/progra-101.png" width="60" alt="angular">                                                
                     </div>
-                </div><!-- Medallas -->
+                </div><!-- Medallas -->                
                 <!-- Comentarios -->
                 <div class="card mt-3 border-primary">
                     <div class="card-header">
