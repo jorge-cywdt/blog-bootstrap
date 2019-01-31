@@ -19,7 +19,7 @@
     <!-- Navbar -->
     <div class="container-fluid bg-dark fixed-top"> <!-- container-fluid bg-primary fixed-top -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark"> <!-- navbar navbar-expand-lg navbar-dark bg-primary -->
-            <a class="navbar-brand" href="/">Navbar</a>
+            <a target="_blank" class="navbar-brand" href="https://jorge-ernesto.herokuapp.com">Navbar</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -27,7 +27,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="/">Home</a>
+                        <a target="_blank" class="nav-link" href="https://jorge-ernesto.herokuapp.com">Home</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="cover.php">Cover</a>
@@ -157,7 +157,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/309051798" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/309051798">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -177,7 +177,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/314166073"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/314166073" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/314166073">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -197,7 +197,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308974322"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/308974322" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/308974322">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -217,7 +217,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/301129703"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/301129703" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/301129703">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -237,7 +237,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300809770"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/300809770" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/300809770">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -257,7 +257,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300452044"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/300452044" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/300452044">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
@@ -277,7 +277,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308780447"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/308780447" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/308780447">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->                                                
@@ -297,7 +297,7 @@
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300810369"></iframe>
                                     </div>
-                                    <a target="_blank" href="https://player.vimeo.com/video/300810369" class="btn btn-sm btn-outline-dark">Ver más..</a> <!-- btn btn-outline-primary -->
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/300810369">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
                         </li><!-- Artículo -->
