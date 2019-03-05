@@ -163,6 +163,26 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
+                        <li id="cardinal" class="list-group-item d-none">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
+                                    <h6 class="font-weight-bold">molino</h6>                                    
+                                    <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, para 'El Molino', modulo de asistencia, notificaciones, nomina de pagos a trabajadores, estado de ganancias y perdidas, usando la plantilla de administración <b>CoreUI</b>, plantilla basada en Bootstrap 4.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
+                                    </div>
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/309051798">Ver más..</a> <!-- btn btn-outline-primary -->
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->
+
+                        <!-- Artículo -->
                         <li id="frzmliliana" class="list-group-item">
                             <div class="row my-3">
                                 <!-- Avatar -->
