@@ -203,7 +203,7 @@
                         </li><!-- Artículo -->
 
                         <!-- Artículo -->
-                        <li id="cardinal" class="list-group-item">
+                        <li id="cardinal" class="list-group-item d-none">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
