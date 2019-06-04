@@ -153,7 +153,7 @@
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
                                     <h6 class="font-weight-bold">cardinal</h6>                                    
-                                    <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, incluye reportes y gráficos estadísticos.</p>
+                                    <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, uso de <b>PHPExcel</b> para realizar reportes, <b>PHPMailer</b> para envio de correos y <b>Morris.js</b> para realizar gráficos estadísticos.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
                                     </div>
@@ -173,7 +173,7 @@
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
                                     <h6 class="font-weight-bold">apisms</h6>                                    
-                                    <p>Desarrollo de una aplicación web para el envio de sms masivos, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, consumiendo la <b>API de voz y SMS</b> de <a target="_blank" href="https://www.infobip.com/es/conexiones/api">Infobip</a>, uso de <b>Node.js</b>, entorno de ejecución de JavaScript del lado del servidor, para realizar <b>tareas programadas</b>, consultando el estado del envio de sms de la API, uso de <b>PHPMailer</b> para envio de correos.</p>
+                                    <p>Desarrollo de una aplicación web para el envio de sms masivos, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, consumiendo la <b>API de SMS</b> de <a target="_blank" href="https://www.infobip.com/es/conexiones/api">Infobip</a>, uso de <b>NodeJS</b>, entorno de ejecución de JavaScript del lado del servidor, para realizar <b>tareas programadas</b>, consultando el estado del envio de sms de la API.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/322633856"></iframe>
                                     </div>
