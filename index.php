@@ -113,14 +113,15 @@
                         Medallas
                     </div>
                     <div class="card-body">                        
-                        <img src="img/Medallas/m-parti-1.png" width="60" alt="angular">
-                        <img src="img/Medallas/herramientas.png" width="60" alt="angular">
-                        <img src="img/Medallas/javascript.png" width="60" alt="angular">
-                        <img src="img/Medallas/jquery-avanzado.png" width="60" alt="angular">
-                        <img src="img/Medallas/git-github.png" width="60" alt="angular">
-                        <img src="img/Medallas/angular.png" width="60" alt="angular">
-                        <img src="img/Medallas/node-cero-experto.png" width="60" alt="angular">
-                        <img src="img/Medallas/progra-101.png" width="60" alt="angular">                                                
+                        <img src="img/Medallas/m-parti-1.png" width="62" alt="angular">
+                        <img src="img/Medallas/herramientas.png" width="62" alt="angular">
+                        <img src="img/Medallas/javascript.png" width="62" alt="angular">
+                        <img src="img/Medallas/jquery-avanzado.png" width="62" alt="angular">
+                        <img src="img/Medallas/git-github.png" width="62" alt="angular">
+                        <img src="img/Medallas/angular.png" width="62" alt="angular">
+                        <img src="img/Medallas/node-cero-experto.png" width="62" alt="angular">
+                        <img src="img/Medallas/progra-101.png" width="62" alt="angular">
+                        <img src="img/Medallas/vscode.png" width="62" alt="angular">
                     </div>
                 </div><!-- Medallas -->                
                 <!-- Comentarios -->
