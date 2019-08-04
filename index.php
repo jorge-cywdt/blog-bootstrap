@@ -113,15 +113,15 @@
                         Medallas
                     </div>
                     <div class="card-body">                        
-                        <img src="img/Medallas/m-parti-1.png" width="62" alt="angular">
-                        <img src="img/Medallas/herramientas.png" width="62" alt="angular">
-                        <img src="img/Medallas/javascript.png" width="62" alt="angular">
-                        <img src="img/Medallas/jquery-avanzado.png" width="62" alt="angular">
-                        <img src="img/Medallas/git-github.png" width="62" alt="angular">
-                        <img src="img/Medallas/angular.png" width="62" alt="angular">
-                        <img src="img/Medallas/node-cero-experto.png" width="62" alt="angular">
-                        <img src="img/Medallas/progra-101.png" width="62" alt="angular">
-                        <img src="img/Medallas/vscode.png" width="62" alt="angular">
+                        <img src="img/Medallas/m-parti-1.png" width="62" alt="php">
+                        <img src="img/Medallas/herramientas.png" width="62" alt="php">
+                        <img src="img/Medallas/javascript.png" width="62" alt="php">
+                        <img src="img/Medallas/jquery-avanzado.png" width="62" alt="php">
+                        <img src="img/Medallas/git-github.png" width="62" alt="php">
+                        <img src="img/Medallas/node-cero-experto.png" width="62" alt="php">
+                        <img src="img/Medallas/angular.png" width="62" alt="php">                        
+                        <img src="img/Medallas/progra-101.png" width="62" alt="php">
+                        <img src="img/Medallas/vscode.png" width="62" alt="php">
                     </div>
                 </div><!-- Medallas -->                
                 <!-- Comentarios -->
@@ -153,15 +153,35 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">cardinal</h6>                                    
-                                    <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, uso de <b>PHPExcel</b> para realizar reportes, <b>PHPMailer</b> para envio de correos y <b>Morris.js</b> para realizar gráficos estadísticos.</p>
+                                    <h6 class="font-weight-bold">cardinal</h6>                                                                        
+                                    <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, <b>datatables</b>, uso de <b>FPDF</b> para realizar reportes personalizados, <b>PHPMailer</b> para envio de correos y <b>Chart.js</b>, <b>Morris.js</b> para realizar gráficos estadísticos.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
                                     </div>
                                     <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/309051798">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
                             </div>
-                        </li><!-- Artículo -->                        
+                        </li><!-- Artículo -->
+
+                        <!-- Artículo -->
+                        <li id="cardinal" class="list-group-item">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
+                                    <h6 class="font-weight-bold">php pdo</h6>
+                                    <p>Desarrollo de scripts en <b>PHP PDO</b>, tecnología de PHP para acceder a diferentes bases de datos como MySQL, MongoDB y PostgreSQL, con el fin de automatizar y optimizar procesos, procesando información y obteniendo mejores resultados.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
+                                    </div>
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/309051798">Ver más..</a> <!-- btn btn-outline-primary -->
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->
 
                         <!-- Artículo -->
                         <li id="apisms" class="list-group-item">
@@ -173,8 +193,8 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">apisms</h6>                                    
-                                    <p>Desarrollo de una aplicación web para el envio de sms masivos, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, consumiendo la <b>API de SMS</b> de <a target="_blank" href="https://www.infobip.com/es/conexiones/api">Infobip</a>, uso de <b>NodeJS</b>, entorno de ejecución de JavaScript del lado del servidor, para realizar <b>tareas programadas</b>, consultando el estado del envio de sms de la API.</p>
+                                    <h6 class="font-weight-bold">apisms</h6>
+                                    <p>Desarrollo de una aplicación web para el envio de sms masivos, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, <b>datatables</b>, consumiendo la <b>API de SMS</b> de <a target="_blank" href="https://www.infobip.com/es/conexiones/api">Infobip</a>, uso de <b>NodeJS</b>, entorno de ejecución de JavaScript del lado del servidor, para realizar <b>tareas programadas</b>, consultando el estado del envio de sms de la API.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/322633856"></iframe>
                                     </div>
