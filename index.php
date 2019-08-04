@@ -119,7 +119,7 @@
                         <img src="img/Medallas/jquery-avanzado.png" width="62" alt="php">
                         <img src="img/Medallas/git-github.png" width="62" alt="php">
                         <img src="img/Medallas/node-cero-experto.png" width="62" alt="php">
-                        <img src="img/Medallas/angular.png" width="62" alt="php">                        
+                        <!-- <img src="img/Medallas/angular.png" width="62" alt="php"> -->
                         <img src="img/Medallas/progra-101.png" width="62" alt="php">
                         <img src="img/Medallas/vscode.png" width="62" alt="php">
                     </div>
@@ -153,7 +153,7 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">cardinal</h6>                                                                        
+                                    <h6 class="font-weight-bold">php</h6>                                                                        
                                     <p>Desarrollo de un sistema web de gestión de información, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, <b>datatables</b>, uso de <b>FPDF</b> para realizar reportes personalizados, <b>PHPMailer</b> para envio de correos y <b>Chart.js</b>, <b>Morris.js</b> para realizar gráficos estadísticos.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
@@ -176,7 +176,7 @@
                                     <h6 class="font-weight-bold">php pdo</h6>
                                     <p>Desarrollo de scripts en <b>PHP PDO</b>, tecnología de PHP para acceder a diferentes bases de datos como MySQL, MongoDB y PostgreSQL, con el fin de automatizar y optimizar procesos, procesando información y obteniendo mejores resultados.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
-                                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe>
+                                        <!-- <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/309051798"></iframe> -->
                                     </div>
                                     <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/309051798">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
@@ -193,10 +193,31 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">apisms</h6>
-                                    <p>Desarrollo de una aplicación web para el envio de sms masivos, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, <b>datatables</b>, consumiendo la <b>API de SMS</b> de <a target="_blank" href="https://www.infobip.com/es/conexiones/api">Infobip</a>, uso de <b>NodeJS</b>, entorno de ejecución de JavaScript del lado del servidor, para realizar <b>tareas programadas</b>, consultando el estado del envio de sms de la API.</p>
+                                    <h6 class="font-weight-bold">api sms</h6>
+                                    <p>Desarrollo de una aplicación web para el envio de sms masivos, en <b>PHP</b> 7 POO, <b>MySQL</b>, <b>Jquery</b>, <b>Ajax</b>, <b>datatables</b>, consumiendo la <b>API de SMS</b> de <a target="_blank" href="https://www.infobip.com/es/conexiones/api">Infobip</a>, uso de <b>NodeJS</b>, entorno de ejecución de JavaScript del lado del servidor, para realizar <b>tareas programadas</b>, consultando el estado del envio de sms de la API. <b>PM2</b>, gestor de procesos para aplicaciones en producción.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/322633856"></iframe>
+                                    </div>
+                                    <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/322633856">Ver más..</a> <!-- btn btn-outline-primary -->
+                                </div><!-- Contenido -->
+                            </div>
+                        </li><!-- Artículo -->
+
+                        <!-- Artículo -->
+                        <li id="apisms" class="list-group-item">
+                            <div class="row my-3">
+                                <!-- Avatar -->
+                                <div class="col-2 col-sm-3 col-lg-1">
+                                    <img src="img/5.jpg" alt="" class="rounded-circle border" width="60px">
+                                </div><!-- Avatar -->
+                                <!-- Contenido -->
+                                <div class="col-10 col-sm-9 col-lg-11">
+                                    <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
+                                    <h6 class="font-weight-bold">Dialogflow, Scrum</h6>
+                                    <p>Dominio de la plataforma de Google orientada al procesamiento de lenguaje natural, <b>Dialogflow</b>. Creación de <b>chatbots conversacionales</b> capaces de reconocer y extraer parámetros valiosos en oraciones capaces de contestar <b>datos dinámicos consultados a bases de datos</b>, webhook (controlador) en PHP y MySQL, <b>web 4.0</b></p>                                    
+                                    <p>Conocimiento de la Gestión de <b>Proyectos Ágil con Scrum</b>, <b>Product Backlog</b>, <b>Historias de Usuario</b>, <b>Estimación con Puntos Fibonacci</b>, <b>Sprint Backlog</b>, <b>Incremento del Producto</b>, implementación de Scrum en un proyecto para crear un asistente virtual usando DialogFlow.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
+                                        <!-- <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/322633856"></iframe> -->
                                     </div>
                                     <a target="_blank" class="btn btn-sm btn-outline-dark" href="https://player.vimeo.com/video/322633856">Ver más..</a> <!-- btn btn-outline-primary -->
                                 </div><!-- Contenido -->
@@ -233,7 +254,7 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">agape-app</h6>                                    
+                                    <h6 class="font-weight-bold">angular, spring</h6>                                    
                                     <p>Desarrollo <b>frontend con Angular</b> 7 y <b>backend con Spring</b> 5, <b>API REST</b>, <b>JPA</b>, <b>Spring Security</b>.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/308974322"></iframe>
@@ -253,7 +274,7 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">crudmvc</h6>
+                                    <h6 class="font-weight-bold">java crud mvc</h6>
                                     <p>Crud MVC en <b>Java</b>, <b>MySQL</b>, <b>Jquery</b> y <b>Ajax</b>.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/301129703"></iframe>
@@ -273,7 +294,7 @@
                                 <!-- Contenido -->
                                 <div class="col-10 col-sm-9 col-lg-11">
                                     <!-- <p class="card-text float-right"><small class="text-muted">3 mins ago</small></p> -->
-                                    <h6 class="font-weight-bold">ventas detalle_ventas</h6>
+                                    <h6 class="font-weight-bold">java ventas detalle_ventas</h6>
                                     <p>Crud (tablas relacionales, maestro/detalle) en <b>Java</b>, <b>MySQL</b>, <b>Jquery</b> y <b>Ajax</b>.</p>
                                     <div class="embed-responsive embed-responsive-16by9 mb-2">                                        
                                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/300809770"></iframe>
@@ -324,7 +345,7 @@
                         </li><!-- Artículo -->                                                
 
                         <!-- Artículo -->
-                        <li id="tienda" class="list-group-item">
+                        <li id="tienda" class="list-group-item d-none">
                             <div class="row my-3">
                                 <!-- Avatar -->
                                 <div class="col-2 col-sm-3 col-lg-1">
@@ -348,13 +369,7 @@
         </div>
     </div><!-- Sistema de columnas -->
 
-    <footer class="container-fluid bg-dark text-center text-white mt-3 py-3">        
-        <p class="d-none">
-            Este proyecto fue desarrollado con Bootstrap, Jorge Ernesto.<br> &copy; Company 2019,
-            Inc. Todos los derechos reservados. Términos de uso y privacidad.<br>
-        </p>
-        <!-- <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus, quae qui nobis quis iure placeat reprehenderit doloribus cupiditate voluptatibus earum!</p> -->
-                    
+    <footer class="container-fluid bg-dark text-center text-white mt-3 py-3">
         <img src="img/Medallas/javascript.png" width="132" alt="angular">
         <p>
             Powered by <a href="https://www.javascript.com">JavaScript</a>, <a href="http://php.net">PHP</a> y <a href="https://getbootstrap.com">Bootstrap</a>
